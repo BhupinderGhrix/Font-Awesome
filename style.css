@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+body { background-color:#CCC; margin:0px; padding:50px; }
+
+#container {
+    width:100%;
+    text-align:center;
+}
+
+
+
+@media (max-width:767px) {
+
+
+
+}
